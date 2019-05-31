@@ -1,7 +1,385 @@
 fileFormatVersion: 2
 guid: 291798163bfeeee4aaa335429bc2b646
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4663091380457222990
+    second: Cody_idle-0
+  - first:
+      213: 1460521116777095327
+    second: Cody_idle-1
+  - first:
+      213: 1613584872447104742
+    second: Cody_idle2
+  - first:
+      213: -8885846442090331155
+    second: Cody_buk-0
+  - first:
+      213: 5378999833179959588
+    second: Cody_buk-1
+  - first:
+      213: 5037037589311690016
+    second: Cody_tranprant_5
+  - first:
+      213: 7743803737376680011
+    second: Cody_tranprant_6
+  - first:
+      213: -7052155743885242416
+    second: Cody_tranprant_7
+  - first:
+      213: -7767771467258112001
+    second: Cody_tranprant_8
+  - first:
+      213: 526601041513392998
+    second: Cody_tranprant_9
+  - first:
+      213: 2501709572344673884
+    second: Cody_tranprant_10
+  - first:
+      213: -5014483056793054764
+    second: Cody_tranprant_11
+  - first:
+      213: 7966204188840218588
+    second: Cody_tranprant_12
+  - first:
+      213: -5024137724309737614
+    second: Cody_tranprant_13
+  - first:
+      213: -9053971066005323364
+    second: Cody_tranprant_14
+  - first:
+      213: 920058533102044097
+    second: Cody_tranprant_15
+  - first:
+      213: 4797005693606218920
+    second: Cody_tranprant_16
+  - first:
+      213: -1783723523367115615
+    second: Cody_tranprant_17
+  - first:
+      213: -6617749557404151230
+    second: Cody_tranprant_18
+  - first:
+      213: -8616582584776903724
+    second: Cody_tranprant_19
+  - first:
+      213: 5203515555632249417
+    second: Cody_tranprant_20
+  - first:
+      213: -5260357350799756992
+    second: Cody_tranprant_21
+  - first:
+      213: 1515123672613939849
+    second: Cody_tranprant_22
+  - first:
+      213: -1042247631956526027
+    second: Cody_tranprant_23
+  - first:
+      213: 3580041001749090910
+    second: Cody_tranprant_24
+  - first:
+      213: -3441742281873685482
+    second: Cody_tranprant_25
+  - first:
+      213: -8993492431242033108
+    second: Cody_tranprant_26
+  - first:
+      213: 3377120357785060058
+    second: Cody_tranprant_27
+  - first:
+      213: -7295438918128459584
+    second: Cody_tranprant_28
+  - first:
+      213: 2068743024283488748
+    second: Cody_tranprant_29
+  - first:
+      213: -4261803168922902639
+    second: Cody_tranprant_30
+  - first:
+      213: -4842394107682994511
+    second: Cody_tranprant_31
+  - first:
+      213: -8220081111856188087
+    second: Cody_Head
+  - first:
+      213: 3349810945251679751
+    second: Cody_tranprant_33
+  - first:
+      213: -5472017076795420986
+    second: Cody_tranprant_34
+  - first:
+      213: 3478282496108939718
+    second: Cody_tranprant_35
+  - first:
+      213: 8327950083215211271
+    second: Cody_tranprant_36
+  - first:
+      213: 8655351823321952322
+    second: Cody_tranprant_37
+  - first:
+      213: 7840467557271932889
+    second: Cody_tranprant_38
+  - first:
+      213: 3155665073825188767
+    second: Cody_tranprant_39
+  - first:
+      213: 6709876438260053864
+    second: Cody_tranprant_40
+  - first:
+      213: 2915371840817634419
+    second: Cody_tranprant_41
+  - first:
+      213: -8397668430317333577
+    second: Cody_tranprant_42
+  - first:
+      213: 23802875357388034
+    second: Cody_tranprant_43
+  - first:
+      213: 539036072986153053
+    second: Cody_tranprant_44
+  - first:
+      213: -8378582478148360775
+    second: Cody_tranprant_45
+  - first:
+      213: 16451332743414465
+    second: Cody_tranprant_46
+  - first:
+      213: 498004825884469713
+    second: Cody_tranprant_47
+  - first:
+      213: 2427034773518788982
+    second: Cody_tranprant_48
+  - first:
+      213: 5260213198775243587
+    second: Cody_tranprant_49
+  - first:
+      213: -6549017129457748067
+    second: Cody_tranprant_50
+  - first:
+      213: 5629390660687806804
+    second: Cody_tranprant_51
+  - first:
+      213: 1141859251477445750
+    second: Cody_tranprant_52
+  - first:
+      213: 4806057040064075539
+    second: Cody_tranprant_53
+  - first:
+      213: 3935116676303169319
+    second: Cody_tranprant_54
+  - first:
+      213: 63037115163928830
+    second: Cody_tranprant_55
+  - first:
+      213: 2808655351700682248
+    second: Cody_tranprant_56
+  - first:
+      213: 5896038482926943208
+    second: Cody_tranprant_57
+  - first:
+      213: 8791717340151551297
+    second: Cody_tranprant_58
+  - first:
+      213: 5846184071960927566
+    second: Cody_tranprant_59
+  - first:
+      213: 2182899739166522249
+    second: Cody_tranprant_60
+  - first:
+      213: 3921525827961868071
+    second: Cody_tranprant_61
+  - first:
+      213: -954604116200314813
+    second: Cody_tranprant_62
+  - first:
+      213: 500310957133617981
+    second: Cody_tranprant_63
+  - first:
+      213: 1854213058477669306
+    second: Cody_tranprant_64
+  - first:
+      213: 7698723343874800293
+    second: Cody_tranprant_65
+  - first:
+      213: 4414164796055673033
+    second: Cody_tranprant_66
+  - first:
+      213: 8991246908150368543
+    second: Cody_tranprant_67
+  - first:
+      213: 3390968652153819049
+    second: Cody_tranprant_68
+  - first:
+      213: -6661674331565151126
+    second: Cody_tranprant_69
+  - first:
+      213: 9053284035971302726
+    second: Cody_tranprant_70
+  - first:
+      213: -7041877055147426095
+    second: Cody_tranprant_71
+  - first:
+      213: 2879105059034581003
+    second: Cody_tranprant_72
+  - first:
+      213: -4615508171439052087
+    second: Cody_GetHit-0
+  - first:
+      213: -5408668848821690284
+    second: Cody_GetHit-1
+  - first:
+      213: 1116909776633044533
+    second: Cody_tranprant_75
+  - first:
+      213: 8787148766475592529
+    second: Cody_tranprant_76
+  - first:
+      213: 8299304847873183688
+    second: Cody_tranprant_77
+  - first:
+      213: 246095287197008136
+    second: Cody_tranprant_78
+  - first:
+      213: 6992494443298271041
+    second: Cody_tranprant_79
+  - first:
+      213: 4536761672349055271
+    second: Cody_tranprant_80
+  - first:
+      213: 3127473644115903336
+    second: Cody_tranprant_81
+  - first:
+      213: -743040621885004712
+    second: Cody_tranprant_82
+  - first:
+      213: -5807037843884473831
+    second: Cody_tranprant_83
+  - first:
+      213: -277508487482488005
+    second: Cody_tranprant_84
+  - first:
+      213: -4637123800724652027
+    second: Cody_tranprant_85
+  - first:
+      213: -8431532181292748419
+    second: Cody_Shoot-0
+  - first:
+      213: -7218099095055908229
+    second: Cody_Shoot-1
+  - first:
+      213: -7170415270110715467
+    second: Cody_Shoot-2
+  - first:
+      213: -8795641210533393264
+    second: Cody_Shoot-3(kogel)
+  - first:
+      213: 8313966250757739386
+    second: Cody_tranprant_90
+  - first:
+      213: -5525673262334088952
+    second: Cody_tranprant_91
+  - first:
+      213: 1130801837243662350
+    second: Cody_tranprant_92
+  - first:
+      213: -8184761031275850282
+    second: Cody_tranprant_93
+  - first:
+      213: 4918742125103283444
+    second: Cody_tranprant_94
+  - first:
+      213: 5986903988408137404
+    second: Cody_tranprant_95
+  - first:
+      213: 5840975638167330357
+    second: Cody_tranprant_96
+  - first:
+      213: -3644716952793930919
+    second: Cody_tranprant_97
+  - first:
+      213: -2746963185436526388
+    second: Cody_tranprant_98
+  - first:
+      213: -9066134917583763730
+    second: Cody_tranprant_99
+  - first:
+      213: 3117718274801149620
+    second: Cody_tranprant_100
+  - first:
+      213: -389858726671741237
+    second: Cody_tranprant_101
+  - first:
+      213: -2161730507791636455
+    second: Cody_tranprant_102
+  - first:
+      213: -5485382998766398046
+    second: Cody_tranprant_103
+  - first:
+      213: 2932632974467879622
+    second: Cody_tranprant_104
+  - first:
+      213: 8705126161281135180
+    second: Cody_tranprant_105
+  - first:
+      213: 5560311695254907705
+    second: Cody_tranprant_106
+  - first:
+      213: -2178228545857954967
+    second: Cody_tranprant_107
+  - first:
+      213: 4499971756812760160
+    second: Cody_tranprant_108
+  - first:
+      213: 8938806597784130239
+    second: Cody_tranprant_109
+  - first:
+      213: 4256221227571891983
+    second: Cody_tranprant_110
+  - first:
+      213: 2823028251301803189
+    second: Cody_tranprant_111
+  - first:
+      213: 5270385527840831408
+    second: Cody_tranprant_112
+  - first:
+      213: -2957212122915572428
+    second: Cody_tranprant_113
+  - first:
+      213: -6478415658780217034
+    second: Cody_tranprant_114
+  - first:
+      213: 2071628575669072151
+    second: Cody_tranprant_115
+  - first:
+      213: 3434909451447359551
+    second: Cody_tranprant_116
+  - first:
+      213: 6690761524250324696
+    second: Cody_tranprant_117
+  - first:
+      213: -8679752806043872455
+    second: Cody_tranprant_118
+  - first:
+      213: 6334739232584093400
+    second: Cody_tranprant_119
+  - first:
+      213: 1768808651651228632
+    second: Cody_tranprant_120
+  - first:
+      213: -8617711991222854346
+    second: Cody_tranprant_121
+  - first:
+      213: 7589317568153160458
+    second: Cody_tranprant_122
+  - first:
+      213: 3942326275796672215
+    second: Cody_tranprant_123
+  - first:
+      213: 3295506545838011817
+    second: Cody_tranprant_124
+  - first:
+      213: 3292718205246901578
+    second: Cody_tranprant_125
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +409,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +418,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 13
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +447,2393 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Cody_idle-0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1254
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b63d6519d9a014eba130b0bc5821c5
+      internalID: 4663091380457222990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_idle-1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1254
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605c06c4ddb1c54e9fb9e741661f66f
+      internalID: 1460521116777095327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_idle2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1252
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb78d871a5f15f4ea02db81536f8698
+      internalID: 1613584872447104742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_buk-0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1255
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52af699d83e7c743ae51a1b136a30d0
+      internalID: -8885846442090331155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_buk-1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1255
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd71cf48b3d604da5f873f6d80a217
+      internalID: 5378999833179959588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1249
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ccb22245ff9d144b15c41d399db9ec
+      internalID: 5037037589311690016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1249
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2957051b23f14ca60c2088a9bd57a
+      internalID: 7743803737376680011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1247
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43515db306a007745b2f23aae5f8748c
+      internalID: -7052155743885242416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1240
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e966e28f2b0fc44bd8a2efff7e3a63
+      internalID: -7767771467258112001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1255
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b323e1cc4ea2664899e2d075cba43de
+      internalID: 526601041513392998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_10
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1265
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d72f900920b4b4ebf48241de10edc0
+      internalID: 2501709572344673884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1250
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ca693feda73c47853a2fb9f22d7d8
+      internalID: -5014483056793054764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1253
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344504f65ff90944b8481ea27e9ec0e
+      internalID: 7966204188840218588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1136
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77123ed29e4614fb15c6e230bc4fc7
+      internalID: -5024137724309737614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1136
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d648902d631044cb4614e395964d65
+      internalID: -9053971066005323364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1136
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9bd4dd0b684064c9d0ac868200bf46
+      internalID: 920058533102044097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e52448793ac944b2ef4d22289b828
+      internalID: 4797005693606218920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1134
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16721126012f6944ab0df170aaf2275
+      internalID: -1783723523367115615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2e30fc0904524e95b7dcde928cd26
+      internalID: -6617749557404151230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1020
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3b6deb3ec0c54e9bb39ba4d9b0095
+      internalID: 1515123672613939849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1020
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6efec64f947a84492b8b2881f34f98
+      internalID: -1042247631956526027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1022
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783d34ca46ba954e8794a5503f33908
+      internalID: 3580041001749090910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1023
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baddc09ddae10c1458dbd246f59f9787
+      internalID: -3441742281873685482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1023
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765243066e39a894ca2e9d1160f419ef
+      internalID: -8993492431242033108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1020
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1a78f934f8ac40b3d4443a0e4ed1c
+      internalID: 3377120357785060058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1019
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf611cd5e52f99943961d0034bb8fdfc
+      internalID: -7295438918128459584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1021
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1710648ec04d044289f47b22fd8b818
+      internalID: 2068743024283488748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_30
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1065
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdad123e6067384eae2a8d0bbb524af
+      internalID: -4261803168922902639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1061
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c9ae2f641fee4a983fe0018a90e9d
+      internalID: -4842394107682994511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_Head
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1013
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a678b4730f954b9166ed6d6fe62f6
+      internalID: -8220081111856188087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 910
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1df9b5c4c2b7a4f86e19ed65a00cf8
+      internalID: 3349810945251679751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 909
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6ddb90fd87334d85b7243c271f210
+      internalID: -5472017076795420986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 910
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc3c3ba23d1644ea0b1f1ac00472cd
+      internalID: 3478282496108939718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 910
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8195ee3e6898409eb97193a32030a
+      internalID: 8327950083215211271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 913
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e968832a7ee894a8b36de662b61766
+      internalID: 8655351823321952322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_38
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 910
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1165eccbc770747a9edc4129744fea
+      internalID: 7840467557271932889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_39
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 912
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c1901b72d95444a9bfa37a26a12d5
+      internalID: 3155665073825188767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 910
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf4e35e66e25048bc2aa44fd1aa9cd
+      internalID: 6709876438260053864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_41
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 912
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774cce394daab604bbbd81eedbc70377
+      internalID: 2915371840817634419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 801
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224ff10fc0c6fce49a345e270e35e9fc
+      internalID: -8397668430317333577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 801
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1206a3a1d75e24d8f57760f449b7c0
+      internalID: 23802875357388034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 800
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469f4b4a93b10640b8732a51d0925ad
+      internalID: 539036072986153053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 800
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15cd0a42e6ba04babe9b4ba1893424
+      internalID: -8378582478148360775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 800
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075b335fb134d3468a1398d5a493d93
+      internalID: 16451332743414465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 798
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aea0111c4b2bb4e90c38868578d93d
+      internalID: 498004825884469713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 799
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba2349dec59a34c93dcd63867c98b0
+      internalID: 2427034773518788982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_49
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 800
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c423e20dbfc654fa72d1ec0964d0b5
+      internalID: 5260213198775243587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 803
+        width: 107
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700fb7281edee04c82f3fc7f9eac273
+      internalID: -6549017129457748067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_51
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 805
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090cb4cc1be24ae469cfeae2f0890e8e
+      internalID: 5629390660687806804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 706
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861c4d6d8e8e254aa9b93458865b2f5
+      internalID: 1141859251477445750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 705
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60d91030dca414fabf513e1cc87a1b
+      internalID: 4806057040064075539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 703
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53191e0f6062b4b998ee46db0fdc63
+      internalID: 3935116676303169319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 701
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527a39a527e74541a78bc5981de0c17
+      internalID: 63037115163928830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 716
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d39fc8778b5d24ba0ce5bedbd9d33c
+      internalID: 2808655351700682248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 700
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9138d21efe693b43b5587bfa8d6dbe8
+      internalID: 5896038482926943208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 699
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2589072bfab1f449c026a08ea52608
+      internalID: 8791717340151551297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_59
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 720
+        width: 172
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d253e031caae40bdb505df6c2867e
+      internalID: 5846184071960927566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 614
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9f51140e5ed04f875484125158df7
+      internalID: 2182899739166522249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 615
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87022582b451cc44e9f9f6d10ef54083
+      internalID: 3921525827961868071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 606
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd267405768ab34bb8f0e59dd830f37
+      internalID: -954604116200314813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 615
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65769edae841034f929aef3bee0be12
+      internalID: 500310957133617981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 609
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327c7d5a4b22ec4eb8c47f8739826eb
+      internalID: 1854213058477669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 608
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980e2b4f5f37677458a7aedd0076dcc2
+      internalID: 7698723343874800293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_66
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 659
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98925626bb024b046adb2e5ab8613144
+      internalID: 4414164796055673033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_67
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 610
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eacc0254b09ce4b897b2fdb1217335
+      internalID: 8991246908150368543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_68
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 610
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfdc076cd6a1a8468f3d5dd0540cd64
+      internalID: 3390968652153819049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_69
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 608
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ddf39b83d53545875f2e7106898be
+      internalID: -6661674331565151126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_70
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 645
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226de35002040646b4ec7f975e1b5e9
+      internalID: 9053284035971302726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_71
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 607
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf455a201785944ba12c6fe6d0b4dcf
+      internalID: -7041877055147426095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 641
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a355592ada98047a86be3e95ade778
+      internalID: 2879105059034581003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_GetHit-0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 502
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf8b595dec90945bfd416d34e1b8c7
+      internalID: -4615508171439052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_GetHit-1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898cf67724635f040b907a1a38eed49d
+      internalID: -5408668848821690284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 500
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57f477957e1dd44a49fcf65ca6491f
+      internalID: 1116909776633044533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 500
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27610821553f149904d181f6df17e1
+      internalID: 8787148766475592529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 480
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c865046eaf43468bf6a06c0f4d047
+      internalID: 8299304847873183688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_78
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 498
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d5b826b79980e4d93aa5db5a82edbf
+      internalID: 246095287197008136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_79
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 526
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb2b7e42c9683a45b415a48f57c07df
+      internalID: 6992494443298271041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_80
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 521
+        width: 120
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566259c1428d59f4b8c54310ae8b6e74
+      internalID: 4536761672349055271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_81
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 496
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea449811660f245b28f8e7cd9093a7
+      internalID: 3127473644115903336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 368
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a571670d995746816e16927b46c35
+      internalID: -743040621885004712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 366
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fdd5421a01de7469fdeb86b0086aa9
+      internalID: -5807037843884473831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 367
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a669315aaee146ab2349f106e3e6b
+      internalID: -277508487482488005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 367
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3704bbc7fa60443aea07ff4905c276
+      internalID: -4637123800724652027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_Shoot-0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 366
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9284b22e13d4498efa799240b45d2
+      internalID: -8431532181292748419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_Shoot-1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 367
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0679a327311754043a239bbe6168d818
+      internalID: -7218099095055908229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_Shoot-2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 365
+        width: 118
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05dae895119f0e48b7a88824cc2414b
+      internalID: -7170415270110715467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_Shoot-3(kogel)
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 399
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78275c7e8f16bb4ab4aa2d71b5a7b7e
+      internalID: -8795641210533393264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 245
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370edfa4d635f0848889afd9fc73a35f
+      internalID: 8313966250757739386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 245
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e090ea46362d41bf89a196597a005
+      internalID: -5525673262334088952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 247
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58cc6a574196ca4286dfd17b778e158
+      internalID: 1130801837243662350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 245
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39384943a2126b4b997e5956f19ee86
+      internalID: -8184761031275850282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_94
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 249
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b13ed79a31e5524996f129c3eb92853
+      internalID: 4918742125103283444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_95
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 247
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ed66b854a9874a8e1baa435f11317
+      internalID: 5986903988408137404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_96
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 254
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597a8ff06848134e9c1a4fdcd6bd588
+      internalID: 5840975638167330357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 251
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6915a034db344d8870d9187ae4e7a
+      internalID: -3644716952793930919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_99
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 254
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdcb59ff3dfba8489fe1a4f64493d9c
+      internalID: -9066134917583763730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_100
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 253
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c055bbdd714fd44c8a077a644c5a234
+      internalID: 3117718274801149620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f55060164dd54496eeac80fd7da9a
+      internalID: -5485382998766398046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3eb7c3dd12cb4eb1789fce1f66250
+      internalID: 2932632974467879622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f0c1a4d197b246acc5723095a53bd
+      internalID: 5560311695254907705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 134
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec62517f043fc244bc76969b57c49b7
+      internalID: -2178228545857954967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_108
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 137
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a274ab3e4da2b44a4eb9f3a5ee3370
+      internalID: 4499971756812760160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_109
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 135
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42fe0095dca5a3458c717d51e46511c
+      internalID: 8938806597784130239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_110
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 131
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5f1e1801dc9f4d9c02e7efd40710a
+      internalID: 4256221227571891983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_111
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 155
+        width: 157
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30150edf164d5049a6ba622f43eb89b
+      internalID: 2823028251301803189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_112
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 155
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d255faf8f1aa64aa6481fc6e88f9ad
+      internalID: 5270385527840831408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_113
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 139
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f44fd64ef4364a875e2cbaa7f5e11
+      internalID: -2957212122915572428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a296e6d340c04a4b89df594e2137e70
+      internalID: -6478415658780217034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_115
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f37079ef55b174c9f6b1b8bfe47875
+      internalID: 2071628575669072151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_118
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d69692accdb23d42bfb0eb31272b800
+      internalID: -8679752806043872455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962f0e86fc83434cb80bb31b5f2149b
+      internalID: 6334739232584093400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_120
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21251d1206ce1419d4b43d966d9de6
+      internalID: 1768808651651228632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cody_tranprant_121
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246225f6070b5b245bc920cf66d113b6
+      internalID: -8617711991222854346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
