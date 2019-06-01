@@ -37,19 +37,19 @@ TextureImporter:
     second: Cody_tranprant_10
   - first:
       213: -5014483056793054764
-    second: Cody_tranprant_11
+    second: Cody_Schild_staan-0
   - first:
       213: 7966204188840218588
-    second: Cody_tranprant_12
+    second: Cody_Schild_buk-0
   - first:
       213: -5024137724309737614
-    second: Cody_tranprant_13
+    second: Cody_S_punch-0
   - first:
       213: -9053971066005323364
-    second: Cody_tranprant_14
+    second: Cody_S_punch-1
   - first:
       213: 920058533102044097
-    second: Cody_tranprant_15
+    second: Cody_S_punch-2
   - first:
       213: 4797005693606218920
     second: Cody_tranprant_16
@@ -79,19 +79,19 @@ TextureImporter:
     second: Cody_tranprant_24
   - first:
       213: -3441742281873685482
-    second: Cody_tranprant_25
+    second: Cody_Havy-0
   - first:
       213: -8993492431242033108
-    second: Cody_tranprant_26
+    second: Cody_Havy-1
   - first:
       213: 3377120357785060058
-    second: Cody_tranprant_27
+    second: Cody_Havy-2
   - first:
       213: -7295438918128459584
-    second: Cody_tranprant_28
+    second: Cody_Havy-3
   - first:
       213: 2068743024283488748
-    second: Cody_tranprant_29
+    second: Cody_Havy-4
   - first:
       213: -4261803168922902639
     second: Cody_tranprant_30
@@ -229,16 +229,16 @@ TextureImporter:
     second: Cody_GetHit-1
   - first:
       213: 1116909776633044533
-    second: Cody_tranprant_75
+    second: Cody_Gethit_buk-0
   - first:
       213: 8787148766475592529
-    second: Cody_tranprant_76
+    second: Cody_Gethit_buk-1
   - first:
       213: 8299304847873183688
-    second: Cody_tranprant_77
+    second: Cody_Gethit_air-0
   - first:
       213: 246095287197008136
-    second: Cody_tranprant_78
+    second: Cody_ai
   - first:
       213: 6992494443298271041
     second: Cody_tranprant_79
@@ -423,7 +423,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 13
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -693,12 +693,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_11
+      name: Cody_Schild_staan-0
       rect:
         serializedVersion: 2
-        x: 816
+        x: 817
         y: 1250
-        width: 73
+        width: 72
         height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -714,7 +714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_12
+      name: Cody_Schild_buk-0
       rect:
         serializedVersion: 2
         x: 901
@@ -735,7 +735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_13
+      name: Cody_S_punch-0
       rect:
         serializedVersion: 2
         x: 4
@@ -756,7 +756,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_14
+      name: Cody_S_punch-1
       rect:
         serializedVersion: 2
         x: 92
@@ -777,7 +777,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_15
+      name: Cody_S_punch-2
       rect:
         serializedVersion: 2
         x: 208
@@ -924,7 +924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_25
+      name: Cody_Havy-0
       rect:
         serializedVersion: 2
         x: 298
@@ -945,7 +945,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_26
+      name: Cody_Havy-1
       rect:
         serializedVersion: 2
         x: 361
@@ -966,7 +966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_27
+      name: Cody_Havy-2
       rect:
         serializedVersion: 2
         x: 430
@@ -987,7 +987,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_28
+      name: Cody_Havy-3
       rect:
         serializedVersion: 2
         x: 562
@@ -1008,7 +1008,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_29
+      name: Cody_Havy-4
       rect:
         serializedVersion: 2
         x: 687
@@ -1974,7 +1974,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_75
+      name: Cody_Gethit_buk-0
       rect:
         serializedVersion: 2
         x: 193
@@ -1995,7 +1995,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_76
+      name: Cody_Gethit_buk-1
       rect:
         serializedVersion: 2
         x: 283
@@ -2016,7 +2016,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_77
+      name: Cody_Gethit_air-0
       rect:
         serializedVersion: 2
         x: 385
@@ -2037,7 +2037,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_78
+      name: Cody_ai
       rect:
         serializedVersion: 2
         x: 475
