@@ -292,19 +292,19 @@ TextureImporter:
     second: Cody_tranprant_95
   - first:
       213: 5840975638167330357
-    second: Cody_tranprant_96
+    second: Cody_kickSpecial-4
   - first:
       213: -3644716952793930919
-    second: Cody_tranprant_97
+    second: Cody_kickSpecial-5
   - first:
       213: -2746963185436526388
     second: Cody_tranprant_98
   - first:
       213: -9066134917583763730
-    second: Cody_tranprant_99
+    second: Cody_kickSpecial-0
   - first:
       213: 3117718274801149620
-    second: Cody_tranprant_100
+    second: Cody_kickSpecial-1
   - first:
       213: -389858726671741237
     second: Cody_tranprant_101
@@ -322,34 +322,34 @@ TextureImporter:
     second: Cody_tranprant_105
   - first:
       213: 5560311695254907705
-    second: Cody_tranprant_106
+    second: Cody_kickSpecial-2
   - first:
       213: -2178228545857954967
-    second: Cody_tranprant_107
+    second: Cody_kickSpecial-3
   - first:
       213: 4499971756812760160
-    second: Cody_tranprant_108
+    second: Cody_Super-0
   - first:
       213: 8938806597784130239
-    second: Cody_tranprant_109
+    second: Cody_super-1
   - first:
       213: 4256221227571891983
-    second: Cody_tranprant_110
+    second: Cody_super-2
   - first:
       213: 2823028251301803189
-    second: Cody_tranprant_111
+    second: Cody_super3
   - first:
       213: 5270385527840831408
-    second: Cody_tranprant_112
+    second: Cody_super-4
   - first:
       213: -2957212122915572428
-    second: Cody_tranprant_113
+    second: Cody_super-5
   - first:
       213: -6478415658780217034
-    second: Cody_tranprant_114
+    second: Cody_turboPunch-0
   - first:
       213: 2071628575669072151
-    second: Cody_tranprant_115
+    second: Cody_turboPunch-1
   - first:
       213: 3434909451447359551
     second: Cody_tranprant_116
@@ -358,16 +358,16 @@ TextureImporter:
     second: Cody_tranprant_117
   - first:
       213: -8679752806043872455
-    second: Cody_tranprant_118
+    second: Cody_turboPunch-2
   - first:
       213: 6334739232584093400
-    second: Cody_tranprant_119
+    second: Cody_turboPunch-3
   - first:
       213: 1768808651651228632
-    second: Cody_tranprant_120
+    second: Cody_turboPunch-4
   - first:
       213: -8617711991222854346
-    second: Cody_tranprant_121
+    second: Cody_turboPunch-5
   - first:
       213: 7589317568153160458
     second: Cody_tranprant_122
@@ -2415,7 +2415,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_96
+      name: Cody_kickSpecial-4
       rect:
         serializedVersion: 2
         x: 595
@@ -2436,7 +2436,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_97
+      name: Cody_kickSpecial-5
       rect:
         serializedVersion: 2
         x: 665
@@ -2457,7 +2457,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_99
+      name: Cody_kickSpecial-0
       rect:
         serializedVersion: 2
         x: 786
@@ -2478,7 +2478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_100
+      name: Cody_kickSpecial-1
       rect:
         serializedVersion: 2
         x: 857
@@ -2541,7 +2541,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_106
+      name: Cody_kickSpecial-2
       rect:
         serializedVersion: 2
         x: 188
@@ -2562,7 +2562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_107
+      name: Cody_kickSpecial-3
       rect:
         serializedVersion: 2
         x: 256
@@ -2583,7 +2583,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_108
+      name: Cody_Super-0
       rect:
         serializedVersion: 2
         x: 369
@@ -2604,7 +2604,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_109
+      name: Cody_super-1
       rect:
         serializedVersion: 2
         x: 456
@@ -2625,7 +2625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_110
+      name: Cody_super-2
       rect:
         serializedVersion: 2
         x: 521
@@ -2646,11 +2646,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_111
+      name: Cody_super3
       rect:
         serializedVersion: 2
         x: 584
-        y: 155
+        y: 154
         width: 157
         height: 73
       alignment: 0
@@ -2667,7 +2667,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_112
+      name: Cody_super-4
       rect:
         serializedVersion: 2
         x: 760
@@ -2688,7 +2688,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_113
+      name: Cody_super-5
       rect:
         serializedVersion: 2
         x: 914
@@ -2709,7 +2709,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_114
+      name: Cody_turboPunch-0
       rect:
         serializedVersion: 2
         x: 4
@@ -2730,7 +2730,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_115
+      name: Cody_turboPunch-1
       rect:
         serializedVersion: 2
         x: 91
@@ -2751,7 +2751,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_118
+      name: Cody_turboPunch-2
       rect:
         serializedVersion: 2
         x: 229
@@ -2772,7 +2772,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_119
+      name: Cody_turboPunch-3
       rect:
         serializedVersion: 2
         x: 320
@@ -2793,7 +2793,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_120
+      name: Cody_turboPunch-4
       rect:
         serializedVersion: 2
         x: 399
@@ -2814,7 +2814,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cody_tranprant_121
+      name: Cody_turboPunch-5
       rect:
         serializedVersion: 2
         x: 483
