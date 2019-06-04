@@ -1,7 +1,295 @@
 fileFormatVersion: 2
 guid: 8aa12855a5541a747af1bb47ec1b4b8b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2765604693204888959
+    second: Yurgen_Idle-0
+  - first:
+      213: 1764050423322023639
+    second: Yurgen_Idle-1
+  - first:
+      213: 7974506165436107898
+    second: Yurgen_Idle-2
+  - first:
+      213: -3489980027344674636
+    second: Yurgen_crough-0
+  - first:
+      213: 6035505598405250981
+    second: Yurgen_block-HI
+  - first:
+      213: 822832325749165236
+    second: Yurgen_Block-LOW
+  - first:
+      213: 6978851962983876622
+    second: Yurgen_Puch_S-0
+  - first:
+      213: 2675888549609947331
+    second: Yurgen_Puch_S-1
+  - first:
+      213: 4828075167203717352
+    second: Yurgen_Puch_S-2
+  - first:
+      213: -5555182078421235571
+    second: Yurgen_Kick_H-0
+  - first:
+      213: 1788260492077308123
+    second: Yurgen_Kick_H-1
+  - first:
+      213: -2484673272664368387
+    second: Yurgen_Kick_H-2
+  - first:
+      213: -8611378720306040742
+    second: Yurgen_Kick_H-3
+  - first:
+      213: 129051201542172374
+    second: Yurgen_Punch_H-0
+  - first:
+      213: -7973548189818406460
+    second: Yurgen_Punch_H-1
+  - first:
+      213: -7003355837041054517
+    second: Yurgen_Punch_H-2
+  - first:
+      213: -451462623428646047
+    second: Yurgen_Punch_H-3
+  - first:
+      213: 3396782384621697510
+    second: Yurgen_Baret-0
+  - first:
+      213: 4157040025770261499
+    second: Yurgen_Baret-1
+  - first:
+      213: 2771325811109570650
+    second: Yurgen_Baret-2
+  - first:
+      213: 4551028151773475961
+    second: Yurgen_Baret-3
+  - first:
+      213: 4774636263769841067
+    second: Yurgen_Baret-4
+  - first:
+      213: -159383011049641867
+    second: Yurgen_transperant_61
+  - first:
+      213: -6201088060448255651
+    second: Yurgen_transperant_62
+  - first:
+      213: 7338839700763720465
+    second: Yurgen_transperant_63
+  - first:
+      213: -7645387643842155887
+    second: Yurgen_Puch_Low_S-0
+  - first:
+      213: -1999322372264494487
+    second: Yurgen_Puch_Low_S-1
+  - first:
+      213: -2632231323515261541
+    second: Yurgen_Puch_Low_S-2
+  - first:
+      213: 5373863917107874808
+    second: Yurgen_transperant_67
+  - first:
+      213: 7721626648123337990
+    second: Yurgen_transperant_68
+  - first:
+      213: 8772753389476096718
+    second: Yurgen_transperant_69
+  - first:
+      213: -6035486562297453268
+    second: Yurgen_transperant_70
+  - first:
+      213: -1582497070323251339
+    second: Yurgen_Kick_Low_H-0
+  - first:
+      213: -577745822365185216
+    second: Yurgen_Kick_Low_H-1
+  - first:
+      213: 5126668374545942805
+    second: Yurgen_Kick_Low_H-2
+  - first:
+      213: -7860113263908438003
+    second: Yurgen_Kick_Low_H-3
+  - first:
+      213: -4979886678752124056
+    second: Yurgen_Kick_Low_H-4
+  - first:
+      213: -1391911627044394821
+    second: Yurgen_transperant_76
+  - first:
+      213: 7980467106196391208
+    second: Yurgen_transperant_77
+  - first:
+      213: 6394801639983670893
+    second: Yurgen_transperant_78
+  - first:
+      213: 5847109913055423743
+    second: Yurgen_transperant_79
+  - first:
+      213: 7984906575528548296
+    second: Yurgen_transperant_80
+  - first:
+      213: -2236034046216628323
+    second: Yurgen_transperant_81
+  - first:
+      213: 2027467546090182827
+    second: Yurgen_transperant_82
+  - first:
+      213: 3152110138708005096
+    second: Yurgen_HeadBig
+  - first:
+      213: -5934651824248377676
+    second: Yurgen_Hit_Standing-0
+  - first:
+      213: -1000810134754233255
+    second: Yurgen_Hit_Standing-1
+  - first:
+      213: 3199853112736966319
+    second: Yurgen_Hit_Standing-2
+  - first:
+      213: -3546278580168217774
+    second: Yurgen_HeadTiny
+  - first:
+      213: -3829493898325725783
+    second: Yurgen_HeadSmall
+  - first:
+      213: 6018124874957920394
+    second: Yurgen_Hit_Low-0
+  - first:
+      213: 2507949342889726107
+    second: Yurgen_Hit_Low-1
+  - first:
+      213: -5876972153458587809
+    second: Yurgen_dead
+  - first:
+      213: 7971266128871812628
+    second: Yurgen_Special_shoot-0
+  - first:
+      213: -436297719265672490
+    second: Yurgen_Special_shoot-1
+  - first:
+      213: -4421789602272077574
+    second: Yurgen_Special_shoot-2
+  - first:
+      213: -2065973762631069236
+    second: Yurgen_Special_shoot-3
+  - first:
+      213: 2455369858109531282
+    second: Yurgen_Special_shoot-4
+  - first:
+      213: -3530342368416113820
+    second: Yurgen_Special_shoot-5
+  - first:
+      213: -8968285640852112647
+    second: Yurgen_MegaPunch-0
+  - first:
+      213: -957352976184455583
+    second: Yurgen_MegaPunch-1
+  - first:
+      213: 6876198590685985266
+    second: Yurgen_MegaPunch-2
+  - first:
+      213: -1146198815099173572
+    second: Yurgen_MegaPunch-3
+  - first:
+      213: -7140789601892813607
+    second: Yurgen_MegaPunch-4
+  - first:
+      213: 1540749378559110463
+    second: Yurgen_MegaPunch-5
+  - first:
+      213: 7962825049191031938
+    second: Yurgen_MegaPunch-6_1
+  - first:
+      213: 71231534872465432
+    second: Yurgen_MegaPunch-7_1
+  - first:
+      213: -3719734220349586320
+    second: Yurgen_MegaPunch-8_1
+  - first:
+      213: -7325966394029543606
+    second: Yurgen_HeatWave-0
+  - first:
+      213: -2433806154707234578
+    second: Yurgen_HeatWave-1
+  - first:
+      213: -6219400075968761010
+    second: Yurgen_HeatWave-2
+  - first:
+      213: 6959252638191694450
+    second: Yurgen_HeatWave-3
+  - first:
+      213: -2975192099149482039
+    second: Yurgen_HeatWave-4
+  - first:
+      213: 5734645187341360450
+    second: Yurgen_transperant_119
+  - first:
+      213: -5136275520793561219
+    second: Yurgen_transperant_120
+  - first:
+      213: -1773601916200830584
+    second: Yurgen_HeatWave-5
+  - first:
+      213: 4175997810923548611
+    second: Yurgen_transperant_122
+  - first:
+      213: -2138698072850585150
+    second: Yurgen_transperant_123
+  - first:
+      213: 2433810968239290248
+    second: Yurgen_HeatWave-6
+  - first:
+      213: -7149269971656837748
+    second: Yurgen_transperant_125
+  - first:
+      213: 1522644420407545318
+    second: Yurgen_transperant_126
+  - first:
+      213: -8720612129087425581
+    second: Yurgen_transperant_127
+  - first:
+      213: -6557524201292948079
+    second: Yurgen_transperant_128
+  - first:
+      213: 5506683528715566019
+    second: Yurgen_transperant_129
+  - first:
+      213: -7346787472311320420
+    second: Yurgen_transperant_130
+  - first:
+      213: -1174719815074166554
+    second: Yurgen_transperant_131
+  - first:
+      213: -1820941181500580503
+    second: Yurgen_MegaPunch-6_2
+  - first:
+      213: -594896191602132597
+    second: Yurgen_MegaPunch-7_0
+  - first:
+      213: 2312122390599071020
+    second: Yurgen_MegaPunch-7_2
+  - first:
+      213: -2176204126251812334
+    second: Yurgen_MegaPunch-8_0
+  - first:
+      213: -8155053428685698763
+    second: Yurgen_HeatWave-7
+  - first:
+      213: -2627723420314569517
+    second: Yurgen_walk-0
+  - first:
+      213: -6892390611309573776
+    second: Yurgen_walk-1
+  - first:
+      213: 5807230421741685695
+    second: Yurgen_walk-2
+  - first:
+      213: -7521002879545088513
+    second: Yurgen_walk-3
+  - first:
+      213: -8350083571614263651
+    second: Yurgen_walk-4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +319,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +328,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +357,1511 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Yurgen_Idle-0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1898
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333af74d3abd5264aba8ae5935709b63
+      internalID: -2765604693204888959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Idle-1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1899
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2cd2a31deecd41b072bdb99503318
+      internalID: 1764050423322023639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Idle-2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1899
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087f8d6dddcda94b80a903b54da8fd1
+      internalID: 7974506165436107898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_crough-0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1899
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c8f207de3d2247a28f0528612f29a
+      internalID: -3489980027344674636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_block-HI
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1789
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3018372bf6ce07c42a905c3e12297a48
+      internalID: 6035505598405250981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Block-LOW
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1789
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fa8edb61ae0f42a724e20e2f5783e
+      internalID: 822832325749165236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_S-0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1561
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa82353f5dc788458b3d9a461c1ee4b
+      internalID: 6978851962983876622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_S-1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1563
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a61c5afcf008c4a945727b2bf4b621
+      internalID: 2675888549609947331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_S-2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1562
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8e1305338d984e83200da8eb3117b
+      internalID: 4828075167203717352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_H-0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1451
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7ef67cc8ff9f4b8eb683e5d54e126
+      internalID: -5555182078421235571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_H-1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1449
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab7c8a3947c4c409fe3c12ca6d57a8
+      internalID: 1788260492077308123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_H-2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1448
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dee9c8ac7478d41a15c8023dc7220e
+      internalID: -2484673272664368387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_H-3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1449
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca9a3a4e178ef48b2eb01297e17b26
+      internalID: -8611378720306040742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Punch_H-0
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1451
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39519ae2ce8d0164aa1111ec95823c0d
+      internalID: 129051201542172374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Punch_H-1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1451
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2ef11f89160048aa1937ef9d5efba
+      internalID: -7973548189818406460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Punch_H-2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1452
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fabbc654d711fb44aaa784c59605ce9
+      internalID: -7003355837041054517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Punch_H-3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1455
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb668084b183c34ca79ad52328e1e85
+      internalID: -451462623428646047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Baret-0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1072
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed6d00a2a03d544b3323d686683f8a
+      internalID: 3396782384621697510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Baret-1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1070
+        width: 68
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eacc3e073708d54c92ef689088f795f
+      internalID: 4157040025770261499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Baret-2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1072
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a51186f71ae3734e9e2c5cf62877373
+      internalID: 2771325811109570650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Baret-3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1070
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e173c7a44344a94c9e45388342a9eb0
+      internalID: 4551028151773475961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Baret-4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1071
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ac6d229b3662488aca3c1d8066a12
+      internalID: 4774636263769841067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_Low_S-0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 984
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021385a8df04b641964cd82e78a457b
+      internalID: -7645387643842155887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_Low_S-1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 985
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f692a93ec90f4c8f064f9ce91db6e
+      internalID: -1999322372264494487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Puch_Low_S-2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 984
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44953fed76054594b9efd526861771b2
+      internalID: -2632231323515261541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_Low_H-0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 849
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4148832c85774688c2ee44a40ea7b
+      internalID: -1582497070323251339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_Low_H-1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 849
+        width: 104
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ae258cff613244aa5fe86d04210d3
+      internalID: -577745822365185216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_Low_H-2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 847
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b974cdc510384c998091036f70d06
+      internalID: 5126668374545942805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_Low_H-3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 846
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f433bb4106ab449892941e8485a1d
+      internalID: -7860113263908438003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Kick_Low_H-4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 846
+        width: 120
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1932f95867f6e54cb1a2b1029cf8885
+      internalID: -4979886678752124056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeadBig
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 715
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dda7ea3d9169b4099f297040f640ef
+      internalID: 3152110138708005096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Hit_Standing-0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 591
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0330eb04484bdd4e96f62f1082a3fcb
+      internalID: -5934651824248377676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Hit_Standing-1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 588
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e086bc18872c40adec4f72f459f1b
+      internalID: -1000810134754233255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Hit_Standing-2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 587
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584231c6ad8a5884f89fd40b01945687
+      internalID: 3199853112736966319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeadTiny
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 674
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd5314719aa23643a46fe63017c56ac
+      internalID: -3546278580168217774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeadSmall
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 674
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e16d4bd07886847a608a0799a997ab
+      internalID: -3829493898325725783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Hit_Low-0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 591
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8cfc9611f404e46a7495cccc142a92
+      internalID: 6018124874957920394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Hit_Low-1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 592
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad78375d7613d4b911e34b1acaa0e0
+      internalID: 2507949342889726107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_dead
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 506
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879378d8591283e42972f14bb68be7d9
+      internalID: -5876972153458587809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 357
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d407a75ce86c4893359904e244830
+      internalID: 7971266128871812628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 358
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161e63105fa56942be9e9ff2a488fad
+      internalID: -436297719265672490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 361
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7874b00aff1b54fa65e5f2f2ca40f1
+      internalID: -4421789602272077574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 362
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98825af63db42694eb45b698731ea778
+      internalID: -2065973762631069236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 363
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d934860635cae14d8d9401eb810757e
+      internalID: 2455369858109531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_Special_shoot-5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 362
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323bbd1ed0eeba14986d6dddddbc3be0
+      internalID: -3530342368416113820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 251
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adac3c689b45f499a0745afefd93c9
+      internalID: -8968285640852112647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 242
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2273306eef65f484cbb87d62c17e758e
+      internalID: -957352976184455583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 275
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49e748768d31a40b80e8a0d8f691c2
+      internalID: 6876198590685985266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 287
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69267b9c0607dc5479cab162a5fffbe5
+      internalID: -1146198815099173572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01836ca518d802146a8d2cbf4e900e5b
+      internalID: -7140789601892813607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 252
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda8caefd3733845b09bbd7117d20e7
+      internalID: 1540749378559110463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-6_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 251
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94ac3a263fc284eb29c740936580ea
+      internalID: 7962825049191031938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-7_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 254
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a6bd9294521a45a5e243c88609cca
+      internalID: 71231534872465432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-8_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 251
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f296b730073df348a664ab0fec75662
+      internalID: -3719734220349586320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26890bcc8899a6408f3449aeec5749b
+      internalID: -7325966394029543606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 134
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122509124c48bc44bb0b41578e951d6
+      internalID: -2433806154707234578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 135
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654610ebf76a83438a3232f44019121
+      internalID: -6219400075968761010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 135
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6ffa669f28bf49a5afdcb727f21ee
+      internalID: 6959252638191694450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 136
+        width: 163
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c9ea3daab81843a0c8be3160d66f5
+      internalID: -2975192099149482039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 135
+        width: 174
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432625ccc83b7b549b04ea1b4cd66da0
+      internalID: -1773601916200830584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 184
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0abc64ba360a48ad9cbc67b650491
+      internalID: 2433810968239290248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-6_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 324
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673fa2e37df3f649a5126729da22419
+      internalID: -1820941181500580503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-7_0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 254
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67d2ddacea55c4fafa4d2b03d71cb9
+      internalID: -594896191602132597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-7_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 321
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88d613f72faaa4782b5cb9a821c36c
+      internalID: 2312122390599071020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_MegaPunch-8_0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 251
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732dad1b534b764aa57c7bf81e58915
+      internalID: -2176204126251812334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_HeatWave-7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 274
+        width: 3
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc740282a7b18dd4c848ad3d6b9b25e3
+      internalID: -8155053428685698763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_walk-0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1897
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6400bca14e70c499012d4051120635
+      internalID: -2627723420314569517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_walk-1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1897
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daccd6017797b9348b0b7335a7c77ca6
+      internalID: -6892390611309573776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_walk-2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1896
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02ac1cf474a1845a51d25434414f76
+      internalID: 5807230421741685695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_walk-3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1896
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536660e59f5cdb345a997a532396ff25
+      internalID: -7521002879545088513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yurgen_walk-4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1898
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8be48da905a1d4f949d354da6a7ad1
+      internalID: -8350083571614263651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
