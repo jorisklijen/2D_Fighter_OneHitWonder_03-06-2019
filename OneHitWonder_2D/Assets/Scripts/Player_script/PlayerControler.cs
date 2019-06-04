@@ -5,14 +5,14 @@ using UnityEngine;
 public class PlayerControler : MonoBehaviour
 {
     [Header("inputs")]
-    public KeyCode havy;
-    public KeyCode licht;
-    public KeyCode richt;
+    public KeyCode havyAtt;
+    public KeyCode lightAtt;
+    public KeyCode right;
     public KeyCode left;
-
-    float dirX; 
+    [Header("Speed")]
+    
     public float moveSpeed;
-
+    float dirX;
     Animator anim;
 
 
@@ -28,8 +28,8 @@ public class PlayerControler : MonoBehaviour
         dirX = Input.GetAxisRaw("Horizontal") * moveSpeed * Time.deltaTime;
 
         transform.position = new Vector2(transform.position.x + dirX, transform.position.y);
-
-        if (dirX != 0 && !anim.GetCurrentAnimatorStateInfo(0).IsName("Smal_punch")) //in de "" de naam van de anim
+        //----------[ in de "" de naam van de anim ]----------
+        if (dirX != 0 && !anim.GetCurrentAnimatorStateInfo(0).IsName("Smal_punch"))
         {
             anim.SetBool("isWalking", true);
         }
@@ -37,12 +37,14 @@ public class PlayerControler : MonoBehaviour
         {
             anim.SetBool("isWalking", false);
         }
-        
-        //Dit stuk werkt 100%
-        if (Input.GetKeyDown(licht) && !anim.GetCurrentAnimatorStateInfo(0).IsName("Smal_punch")) //in de "" de naam van de anim
+
+        //----------[ Dit stuk werkt 100% ]----------
+        //----------[ in de "" de naam van de anim ]----------
+        if (Input.GetKeyDown(lightAtt) && !anim.GetCurrentAnimatorStateInfo(0).IsName("Special_4(ThunderKick)")) 
         {
             anim.SetBool("isWalking", false);
-            anim.SetTrigger("smalPunch"); // de naam van de trigger 
+            //----------[ de naam van de trigger ]----------
+            anim.SetTrigger("Special_4(ThunderKick)"); 
         }
     }
     

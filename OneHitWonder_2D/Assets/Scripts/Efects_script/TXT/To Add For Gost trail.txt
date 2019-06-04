@@ -3,8 +3,11 @@
 FindObjectOfType<GhostTrail>().ShowGhost();
 
 
-//----------[ dit is voor het riple effect ]----------
+//----------[ dit is voor het schreenShake effect ]----------
 //
 Camera.main.transform.DOComplete();
 Camera.main.transform.DOShakePosition(.2f, .5f, 14, 90, false, true);
+
+//----------[ dit is voor het riple effect ]----------
+//
 FindObjectOfType<RippleEffect>().Emit(Camera.main.WorldToViewportPoint(transform.position));

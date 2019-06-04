@@ -295,7 +295,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!4 &206525594
 Transform:
   m_ObjectHideFlags: 0
@@ -720,7 +720,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   refractionStrength: 0.5
-  reflectionColor: {r: 0.6666667, g: 0.73333335, b: 1, a: 1}
+  reflectionColor: {r: 0.4719206, g: 0.708292, b: 0.990566, a: 1}
   reflectionStrength: 0.82
   waveSpeed: 1.35
   dropInterval: 0.5
