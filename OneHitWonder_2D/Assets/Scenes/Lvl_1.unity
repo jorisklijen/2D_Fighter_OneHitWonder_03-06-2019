@@ -184,7 +184,7 @@ Transform:
   m_GameObject: {fileID: 83441936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.97, y: -4.57, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 602499566}
   - {fileID: 909641265}
@@ -345,7 +345,7 @@ GameObject:
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!50 &206525593
 Rigidbody2D:
   serializedVersion: 4
@@ -381,7 +381,7 @@ Transform:
   - {fileID: 521393374}
   - {fileID: 1707550623}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &206525595
 CapsuleCollider2D:
@@ -1424,7 +1424,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &740891932
 SpriteRenderer:
@@ -1836,7 +1836,6 @@ GameObject:
   m_Component:
   - component: {fileID: 909641265}
   - component: {fileID: 909641267}
-  - component: {fileID: 909641266}
   - component: {fileID: 909641268}
   m_Layer: 0
   m_Name: Player_sprite
@@ -1861,23 +1860,6 @@ Transform:
   m_Father: {fileID: 83441939}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &909641266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 909641264}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0494b42eaef2a0e49a58daafb2b5ee58, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  havyAtt: 0
-  lightAtt: 0
-  right: 0
-  left: 0
-  moveSpeed: 5
 --- !u!212 &909641267
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2394,7 +2376,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1251541548
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2697,7 +2679,7 @@ Transform:
   m_Children:
   - {fileID: 1251541549}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1470051466
 GameObject:
@@ -2879,7 +2861,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1524200679
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3293,7 +3275,6 @@ GameObject:
   - component: {fileID: 1707550623}
   - component: {fileID: 1707550621}
   - component: {fileID: 1707550622}
-  - component: {fileID: 1707550624}
   m_Layer: 0
   m_Name: Player_sprite
   m_TagString: player1
@@ -3384,23 +3365,6 @@ Transform:
   m_Father: {fileID: 206525594}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1707550624
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1707550620}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0494b42eaef2a0e49a58daafb2b5ee58, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  havyAtt: 0
-  lightAtt: 113
-  right: 0
-  left: 0
-  moveSpeed: 5
 --- !u!1 &1716355256
 GameObject:
   m_ObjectHideFlags: 0
@@ -4485,7 +4449,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2038242989
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4549,7 +4513,7 @@ Transform:
   - {fileID: 1789733500}
   - {fileID: 2046954723}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2046954722
 GameObject:
