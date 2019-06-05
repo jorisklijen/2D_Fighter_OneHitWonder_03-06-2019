@@ -131,9 +131,11 @@ GameObject:
   - component: {fileID: 83441939}
   - component: {fileID: 83441938}
   - component: {fileID: 83441937}
-  m_Layer: 0
+  - component: {fileID: 83441941}
+  - component: {fileID: 83441940}
+  m_Layer: 11
   m_Name: Player_Controler_p2
-  m_TagString: Untagged
+  m_TagString: Player2
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -173,7 +175,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!4 &83441939
 Transform:
@@ -184,13 +186,51 @@ Transform:
   m_GameObject: {fileID: 83441936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.97, y: -4.57, z: 0}
-  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 602499566}
-  - {fileID: 909641265}
+  - {fileID: 1064669677}
+  - {fileID: 1823443999}
+  - {fileID: 1876865673}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &83441940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83441936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757122c3aebd5c4498e74f80ab694480, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_JumpForce: 400
+  m_CrouchSpeed: 0.067
+  m_MovementSmoothing: 0
+  m_AirControl: 1
+  m_WhatIsGround:
+    serializedVersion: 2
+    m_Bits: 512
+  m_GroundCheck: {fileID: 1823443999}
+  m_CeilingCheck: {fileID: 1064669677}
+  m_CrouchDisableCollider: {fileID: 0}
+--- !u!114 &83441941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83441936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55483b1633a653047a0669da2746cbc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 83441940}
+  runSpeed: 165.9
 --- !u!1 &137902189
 GameObject:
   m_ObjectHideFlags: 0
@@ -516,7 +556,7 @@ GameObject:
   - component: {fileID: 302831803}
   - component: {fileID: 302831805}
   - component: {fileID: 302831804}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_bovenBeen_L
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -621,7 +661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 313290526}
   - component: {fileID: 313290527}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: feet_L
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -784,7 +824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 497568197}
   - component: {fileID: 497568198}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1163,7 +1203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592498284}
   - component: {fileID: 592498285}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1229,7 +1269,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &602499565
@@ -1242,13 +1282,14 @@ GameObject:
   m_Component:
   - component: {fileID: 602499566}
   - component: {fileID: 602499567}
-  m_Layer: 0
+  - component: {fileID: 602499568}
+  m_Layer: 11
   m_Name: GroundColider
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &602499566
 Transform:
   m_ObjectHideFlags: 0
@@ -1257,8 +1298,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 602499565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -3.75, z: 0}
-  m_LocalScale: {x: 3.0227, y: 1.4244473, z: 3.0227}
+  m_LocalPosition: {x: 0, y: -3.91, z: 0}
+  m_LocalScale: {x: 0.55, y: 1, z: 3.0227}
   m_Children: []
   m_Father: {fileID: 83441939}
   m_RootOrder: 0
@@ -1270,9 +1311,9 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 602499565}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 0b61285928145d142bb81220d43c2cdc, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1289,6 +1330,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!58 &602499568
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602499565}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 0b61285928145d142bb81220d43c2cdc, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.38
 --- !u!1 &677836341
 GameObject:
   m_ObjectHideFlags: 0
@@ -1592,7 +1649,7 @@ GameObject:
   - component: {fileID: 808569331}
   - component: {fileID: 808569333}
   - component: {fileID: 808569332}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_onderArm_L
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -1803,7 +1860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 869452303}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: exta sprites
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1836,7 +1893,7 @@ GameObject:
   m_Component:
   - component: {fileID: 873263036}
   - component: {fileID: 873263037}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Vire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1894,7 +1951,7 @@ GameObject:
   - component: {fileID: 909641265}
   - component: {fileID: 909641267}
   - component: {fileID: 909641268}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Player_sprite
   m_TagString: player1
   m_Icon: {fileID: 0}
@@ -1908,14 +1965,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 909641264}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 869452303}
   - {fileID: 1445101389}
-  m_Father: {fileID: 83441939}
-  m_RootOrder: 1
+  m_Father: {fileID: 1876865673}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &909641267
 SpriteRenderer:
@@ -1974,7 +2031,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 909641264}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: d8d0bcce8affd584c9aefb7ccb3ab760, type: 2}
   m_CullingMode: 0
@@ -1996,7 +2053,7 @@ GameObject:
   - component: {fileID: 990446432}
   - component: {fileID: 990446434}
   - component: {fileID: 990446433}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_bovenBeen_R
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -2102,7 +2159,7 @@ GameObject:
   - component: {fileID: 1028454536}
   - component: {fileID: 1028454538}
   - component: {fileID: 1028454537}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_onderArm_R
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -2197,6 +2254,36 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1064669676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1064669677}
+  m_Layer: 11
+  m_Name: SealingCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1064669677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064669676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 3.72, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 83441939}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1096955546
 GameObject:
   m_ObjectHideFlags: 0
@@ -2265,7 +2352,7 @@ GameObject:
   - component: {fileID: 1203460401}
   - component: {fileID: 1203460403}
   - component: {fileID: 1203460402}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_buik
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -2671,7 +2758,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1445101389}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitboxes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2749,7 +2836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1470051467}
   - component: {fileID: 1470051468}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBoxHead
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -3064,7 +3151,7 @@ GameObject:
   - component: {fileID: 1655792314}
   - component: {fileID: 1655792316}
   - component: {fileID: 1655792315}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_bovenArm_L
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -3169,7 +3256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656507655}
   - component: {fileID: 1656507656}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Fuist_L
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -3227,7 +3314,7 @@ GameObject:
   - component: {fileID: 1674420548}
   - component: {fileID: 1674420550}
   - component: {fileID: 1674420549}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_onderBeen_L
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -3433,7 +3520,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1716355257}
   - component: {fileID: 1716355258}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Fuist_R
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -3491,7 +3578,7 @@ GameObject:
   - component: {fileID: 1755622477}
   - component: {fileID: 1755622479}
   - component: {fileID: 1755622478}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_schouders
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -3980,6 +4067,36 @@ Transform:
   m_Father: {fileID: 1707550623}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1823443998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823443999}
+  m_Layer: 11
+  m_Name: gROUNDcHECK
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1823443999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823443998}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -4.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 83441939}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1849768077
 GameObject:
   m_ObjectHideFlags: 0
@@ -3990,7 +4107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1849768078}
   - component: {fileID: 1849768079}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: feet_R
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -4037,6 +4154,37 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.23, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1876865672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1876865673}
+  m_Layer: 11
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1876865673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876865672}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.55, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 909641265}
+  m_Father: {fileID: 83441939}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1888922701
 GameObject:
   m_ObjectHideFlags: 0
@@ -4258,7 +4406,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2018604834}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: shield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4290,7 +4438,7 @@ GameObject:
   - component: {fileID: 2019525669}
   - component: {fileID: 2019525671}
   - component: {fileID: 2019525670}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_bovenArm_R
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -4396,7 +4544,7 @@ GameObject:
   - component: {fileID: 2026636604}
   - component: {fileID: 2026636606}
   - component: {fileID: 2026636605}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: hitBox_onderBeen_R
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
