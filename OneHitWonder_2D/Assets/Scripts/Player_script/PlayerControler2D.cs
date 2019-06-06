@@ -28,16 +28,7 @@ public class PlayerControler2D : MonoBehaviour
 
     private void FixedUpdate()
     {
-        m_Grounded = false;
-
-        // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
-        // This can be done using layers instead but Sample Assets will not overwrite your project settings.
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
-        for (int i = 0; i < colliders.Length; i++)
-        {
-            if (colliders[i].gameObject != gameObject)
-                m_Grounded = true;
-        }
+       
     }
 
 
@@ -52,59 +43,43 @@ public class PlayerControler2D : MonoBehaviour
                 crouch = true;
             }
         }
-
-        //only control the player if grounded or airControl is turned on
-        if (m_Grounded || m_AirControl)
+        if (crouch)
         {
+            // Reduce the speed by the crouchSpeed multiplier
+            move *= m_CrouchSpeed;
 
-            // If crouching
-            if (crouch)
+            // Disable one of the colliders when crouching
+            if (m_CrouchDisableCollider != null)
             {
-                // Reduce the speed by the crouchSpeed multiplier
-                move *= m_CrouchSpeed;
-
-                // Disable one of the colliders when crouching
-                if (m_CrouchDisableCollider != null)
-                    m_CrouchDisableCollider.enabled = false;
-            }
-            else
-            {
-                // Enable the collider when not crouching
-                if (m_CrouchDisableCollider != null)
-                    m_CrouchDisableCollider.enabled = true;
-            }
-
-            // Move the character by finding the target velocity
-            Vector3 targetVelocity = new Vector2(move * 10f, m_Rigidbody2D.velocity.y);
-            // And then smoothing it out and applying it to the character
-            m_Rigidbody2D.velocity = Vector3.SmoothDamp(m_Rigidbody2D.velocity, targetVelocity, ref velocity, m_MovementSmoothing);
-
-            // If the input is moving the player right and the player is facing left...
-            if (move > 0 && !m_FacingRight)
-            {
-                // ... flip the player.
-                Flip();
-            }
-            // Otherwise if the input is moving the player left and the player is facing right...
-            else if (move < 0 && m_FacingRight)
-            {
-                // ... flip the player.
-                Flip();
+                m_CrouchDisableCollider.enabled = false;
             }
         }
-        // If the player should jump...
-        if (m_Grounded && jump)
+        else
         {
-            // Add a vertical force to the player.
-            m_Grounded = false;
-            m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+            // Enable the collider when not crouching
+            if (m_CrouchDisableCollider != null)
+            {
+                m_CrouchDisableCollider.enabled = true;
+            }
+        }
+
+        // Move the character by finding the target velocity And then smoothing it out
+        Vector3 targetVelocity = new Vector2(move * 10f, m_Rigidbody2D.velocity.y);
+        m_Rigidbody2D.velocity = Vector3.SmoothDamp(m_Rigidbody2D.velocity, targetVelocity, ref velocity, m_MovementSmoothing);
+
+        if (move > 0 && !m_FacingRight)
+        {
+            Flip();
+        }
+        else if (move < 0 && m_FacingRight)
+        {
+            Flip();
         }
     }
 
 
     private void Flip()
     {
-        // Switch the way the player is labelled as facing.
         m_FacingRight = !m_FacingRight;
 
         // Multiply the player's x local scale by -1.
