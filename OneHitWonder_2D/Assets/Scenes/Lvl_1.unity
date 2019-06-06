@@ -218,16 +218,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 757122c3aebd5c4498e74f80ab694480, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 0
   m_CrouchSpeed: 0
   m_MovementSmoothing: 0.035
-  m_AirControl: 0
-  m_WhatIsGround:
-    serializedVersion: 2
-    m_Bits: 0
-  m_GroundCheck: {fileID: 1823443999}
-  m_CeilingCheck: {fileID: 1064669677}
-  m_CrouchDisableCollider: {fileID: 0}
 --- !u!114 &83441941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -241,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 83441940}
-  runSpeed: 70
+  runSpeed: 120
   anim: {fileID: 909641268}
 --- !u!58 &83441942
 CircleCollider2D:
@@ -1069,7 +1061,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a1bc7030f5bb244b09b8037c2ded95f1, type: 3}
   m_Name: 
@@ -1957,10 +1949,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0a0a462e05145341a4d8266854a9ae3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heavyKey: 97
-  lightKey: 115
-  spacialKey: 100
-  blockKey: 102
+  heavyKey: 106
+  lightKey: 107
+  spacialKey: 108
+  blockKey: 59
+  heavyControler: 332
+  lightControler: 331
+  spacialControler: 333
+  blockControler: 330
   heavyAttack:
     name: Kick
     length: 0.455
@@ -1972,9 +1968,64 @@ MonoBehaviour:
     length: 0.6
   blockAttack:
     name: block_hi
-    length: 0.1
-  combos: []
-  comboLeeway: 0.19845785
+    length: 0.17
+  combos:
+  - name: heatwave
+    inputs:
+    - type: 2
+    - type: 2
+    - type: 0
+    - type: 3
+    comboAttack:
+      name: Special_(4)HeatWave
+      length: 0.583
+    onInputted:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - name: superpunch
+    inputs:
+    - type: 2
+    - type: 1
+    - type: 1
+    - type: 2
+    - type: 3
+    comboAttack:
+      name: Special_(5)SelestialPunch
+      length: 0.8
+    onInputted:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - name: stok
+    inputs:
+    - type: 2
+    - type: 1
+    - type: 3
+    comboAttack:
+      name: Special_(1)Baret
+      length: 0.455
+    onInputted:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  - name: heavypunch
+    inputs:
+    - type: 2
+    - type: 0
+    - type: 1
+    comboAttack:
+      name: Special_(3)HavyPunch
+      length: 0
+    onInputted:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  comboLeeway: 0.5
   ani: {fileID: 909641268}
 --- !u!212 &909641267
 SpriteRenderer:

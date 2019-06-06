@@ -12,6 +12,13 @@ public class FightingCombos : MonoBehaviour
     public KeyCode spacialKey;
     public KeyCode blockKey;
 
+    [Header("InPuts")]
+    public KeyCode heavyControler;
+    public KeyCode lightControler;
+    public KeyCode spacialControler;
+    public KeyCode blockControler;
+
+
     [Header("Attacks")]
     public Attack heavyAttack;
     public Attack lightAttack;
@@ -88,19 +95,19 @@ public class FightingCombos : MonoBehaviour
 
         ComboInput input = null;
 
-        if (Input.GetKeyDown(heavyKey))
+        if (Input.GetKeyDown(heavyKey) || Input.GetKeyDown(heavyControler))
         {
             input = new ComboInput(AttackType.heavy);
         }
-        if (Input.GetKeyDown(lightKey))
+        if (Input.GetKeyDown(lightKey) || Input.GetKeyDown(lightControler))
         {
             input = new ComboInput(AttackType.light);
         }
-        if (Input.GetKeyDown(spacialKey))
+        if (Input.GetKeyDown(spacialKey)|| Input.GetKeyDown(spacialControler))
         {
             input = new ComboInput(AttackType.special);
         }
-        if (Input.GetKeyDown(blockKey))
+        if (Input.GetKeyDown(blockKey)|| Input.GetKeyDown(blockControler))
         {
             input = new ComboInput(AttackType.block);
         }
