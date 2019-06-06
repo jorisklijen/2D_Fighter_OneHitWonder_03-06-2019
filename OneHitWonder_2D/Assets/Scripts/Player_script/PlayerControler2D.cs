@@ -24,14 +24,6 @@ public class PlayerControler2D : MonoBehaviour
     {
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
     }
-
-
-    private void FixedUpdate()
-    {
-       
-    }
-
-
     public void Move(float move, bool crouch, bool jump)
     {
         // If crouching, check to see if the character can stand up

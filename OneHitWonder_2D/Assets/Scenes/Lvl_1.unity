@@ -197,8 +197,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 83441936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.97, y: -4.57, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -10.5, y: -2.96, z: 0}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_Children:
   - {fileID: 1064669677}
   - {fileID: 1823443999}
@@ -219,12 +219,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_JumpForce: 0
-  m_CrouchSpeed: 0.067
-  m_MovementSmoothing: 0
-  m_AirControl: 1
+  m_CrouchSpeed: 0
+  m_MovementSmoothing: 0.035
+  m_AirControl: 0
   m_WhatIsGround:
     serializedVersion: 2
-    m_Bits: 1847
+    m_Bits: 0
   m_GroundCheck: {fileID: 1823443999}
   m_CeilingCheck: {fileID: 1064669677}
   m_CrouchDisableCollider: {fileID: 0}
@@ -241,7 +241,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 83441940}
-  runSpeed: 165.9
+  runSpeed: 70
+  anim: {fileID: 909641268}
 --- !u!58 &83441942
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1148,7 +1149,7 @@ Camera:
   far clip plane: 20
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 9
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1920,6 +1921,7 @@ GameObject:
   - component: {fileID: 909641265}
   - component: {fileID: 909641267}
   - component: {fileID: 909641268}
+  - component: {fileID: 909641266}
   m_Layer: 11
   m_Name: Player_sprite
   m_TagString: player1
@@ -1943,6 +1945,37 @@ Transform:
   m_Father: {fileID: 83441939}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &909641266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 909641264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0a0a462e05145341a4d8266854a9ae3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heavyKey: 97
+  lightKey: 115
+  spacialKey: 100
+  blockKey: 102
+  heavyAttack:
+    name: Kick
+    length: 0.455
+  lightAttack:
+    name: Punch
+    length: 0.25
+  spacialAttack:
+    name: Special_(2)Shoot
+    length: 0.6
+  blockAttack:
+    name: block_hi
+    length: 0.1
+  combos: []
+  comboLeeway: 0.19845785
+  ani: {fileID: 909641268}
 --- !u!212 &909641267
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2581,7 +2614,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1365768653}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -12.171, z: 0}
+  m_LocalPosition: {x: 0, y: -11.59, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1251541549}
